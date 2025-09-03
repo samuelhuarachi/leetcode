@@ -1,0 +1,51 @@
+1. Arrays e Strings
+
+Two Sum
+Best Time to Buy and Sell Stock
+Maximum Subarray (Kadane’s Algorithm)
+Merge Intervals
+Rotate Array
+Product of Array Except Self
+
+2. Hashing e Sets
+
+Valid Anagram
+Group Anagrams
+Contains Duplicate
+Two Sum II (Sorted)
+Subarray Sum Equals K
+
+3. Pilhas e Filas
+
+Valid Parentheses
+Min Stack
+Daily Temperatures
+Implement Queue using Stacks
+
+4. Linked List
+
+Reverse Linked List
+Merge Two Sorted Lists
+Linked List Cycle
+Remove Nth Node From End of List
+
+5. Árvores e Grafos (nível pleno cobra bastante aqui)
+
+Binary Tree Inorder Traversal
+Maximum Depth of Binary Tree
+Same Tree
+Lowest Common Ancestor of a Binary Search Tree
+Number of Islands (DFS/BFS clássico de grafos)
+
+6. Busca e Ordenação
+
+Binary Search
+Search in Rotated Sorted Array
+Kth Largest Element in an Array
+Merge Sorted Array
+
+7. Programação Dinâmica (problemas introdutórios, não tão hardcore)
+
+Climbing Stairs
+House Robber
+Coin Change (dependendo da empresa)
